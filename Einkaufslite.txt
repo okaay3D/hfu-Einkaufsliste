@@ -1,3 +1,6 @@
 Bananen
 Äpfel
 Brot
+Marc ist groß 
+Marc ist Äpfel
+Marc Java
